@@ -1,0 +1,3 @@
+﻿  Tigu.cpp
+C:\Users\s\Desktop\CodeForces\kt1\Tigu\Tigu\Tigu.cpp(33,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tigu.vcxproj -> C:\Users\s\Desktop\CodeForces\kt1\Tigu\Debug\Tigu.exe

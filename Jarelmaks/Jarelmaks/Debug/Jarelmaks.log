@@ -1,0 +1,4 @@
+﻿  Jarelmaks.cpp
+C:\Users\s\Desktop\CodeForces\kt1\Jarelmaks\Jarelmaks\Jarelmaks.cpp(24,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\s\Desktop\CodeForces\kt1\Jarelmaks\Jarelmaks\Jarelmaks.cpp(32,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Jarelmaks.vcxproj -> C:\Users\s\Desktop\CodeForces\kt1\Jarelmaks\Debug\Jarelmaks.exe
